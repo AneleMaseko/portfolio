@@ -2,7 +2,7 @@ import React from "react";
 import "../home/home.css"
 import Me from "../../Asserts/WhatsApp Image 2023-10-07 at 9.38.04 PM.jpeg"
 import HeaderSocials from './HeaderSocials'
-import scrollDown from "../home/scrollDown"
+import ScrollDown from "./ScrollDown";
 
 
 const Home = () => {
@@ -14,7 +14,7 @@ const Home = () => {
                 <span className="home__education">I am a Front-End developer</span>
 
                 <HeaderSocials/>
-                <scrollDown />
+                <ScrollDown />
 
                 <a href="#Contact" className="btn">Hire Me</a>
             </div>
