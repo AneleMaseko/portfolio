@@ -128,7 +128,7 @@ img {
 
 .section__title::before {
   content: '';
-  background:url(./Asserts/WhatsApp\ Image\ 2023-10-07\ at\ 9.38.04\ PM.jpeg);
+  /* background:url(./Asserts/WhatsApp\ Image\ 2023-10-07\ at\ 9.38.04\ PM.jpeg); */
   height: 2.25rem;
   width: 2.25rem;
   position: absolute;
