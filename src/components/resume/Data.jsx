@@ -19,7 +19,7 @@ const Data = [
     },
     {
         id:3,
-        category:"educat",
+        category:"education",
         icon: "icon-graduation",
         year: "2019 - Present",
         title: "Honors Degree",
@@ -35,18 +35,18 @@ const Data = [
     },
     {
         id:5,
-        category:"educat",
+        category:"experience",
         icon: "icon-graduation",
         year: "2019 - Present",
-        title: "Academic Degree",
+        title: "Front-End Developer",
         desc: "Lorem ipsum dolor sit amet ei simul congue"
     },
     {
         id:6,
-        category:"educat",
+        category:"experience",
         icon: "icon-graduation",
         year: "2019 - Present",
-        title: "Academic Degree",
+        title: "Back-End Developer",
         desc: "Lorem ipsum dolor sit amet ei simul congue"
     },
   

@@ -38,6 +38,8 @@ const Resume = (id) => {
 
                     })}
                 </div>
+             
+              
             </div>
         </section>
      )
