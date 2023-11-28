@@ -1,6 +1,7 @@
 .about__container {
     grid-template-columns: 3fr 9fr;
-    column-gap: 1.875rem
+    column-gap: 1.875rem;
+    
 }
 
 .about__data {
@@ -83,7 +84,7 @@
 .about__boxes {
    grid-template-columns: repeat(4, 1fr);
    column-gap: 1.875rem;
-   margin-top: 4.25rem;
+   margin-top: 4.35rem;
 
 }
 
@@ -95,5 +96,8 @@
     font-size: var(--h1-font-size);
     color: #dedeea;
     
+}
+.about__title {
+font-size: 1.875rem; 
 }
 
