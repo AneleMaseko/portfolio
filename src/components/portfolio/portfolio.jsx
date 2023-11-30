@@ -30,7 +30,7 @@
                         <span className="work__category">{category}</span>
                         <h3 className="work__title">{title}</h3> 
                         <a href="#" className="work__button">
-                            <i className="icon-link work__button-icon"></i>
+                            <i className="icon-link work__button-icon "></i>
                         </a>
                         </div>
                     )
