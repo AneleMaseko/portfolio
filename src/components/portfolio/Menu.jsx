@@ -21,28 +21,28 @@ const Menu = [
     category: "Art",
   },
   {
-    id: 1,
+    id: 3,
     image:Work3,
     title:"Delivery App Wireframe",
     category: "Branding"
   },
   {
-    id: 1,
+    id: 4,
     image:Work4,
-    title:"Project management Illustration",
+    title:"Onboarding motivation",
     category: "Design"
   },
   {
-    id: 1,
+    id: 5,
     image:Work5,
     title:"Project management Illustration",
-    category: "Design"
+    category: "Creative"
   },
   {
-    id: 1,
+    id: 6,
     image:Work6,
-    title:"Project management Illustration",
-    category: "Design"
+    title:"Game Store App Concept",
+    category: "Art"
   },
 
 ]
