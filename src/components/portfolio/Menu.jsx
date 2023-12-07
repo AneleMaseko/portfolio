@@ -1,10 +1,10 @@
 import React from 'react'
-import Work1 from "../../Asserts/WhatsApp Image 2023-10-07 at 9.38.04 PM.jpeg";
-import Work2 from "../../Asserts/WhatsApp Image 2023-10-07 at 9.38.04 PM.jpeg";
-import Work3 from "../../Asserts/WhatsApp Image 2023-10-07 at 9.38.04 PM.jpeg";
-import Work4 from "../../Asserts/WhatsApp Image 2023-10-07 at 9.38.04 PM.jpeg";
-import Work5 from "../../Asserts/WhatsApp Image 2023-10-07 at 9.38.04 PM.jpeg";
-import Work6 from "../../Asserts/WhatsApp Image 2023-10-07 at 9.38.04 PM.jpeg";
+import Work1 from "../../Asserts/images.jpg";
+import Work2 from "../../Asserts/images.jpg";
+import Work3 from "../../Asserts/images.jpg";
+import Work4 from "../../Asserts/images.jpg";
+import Work5 from "../../Asserts/images.jpg";
+import Work6 from "../../Asserts/images.jpg";
 
 
 const Menu = [

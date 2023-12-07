@@ -1,6 +1,6 @@
  import React from "react";
 import '../about/about.css';
-import Image from "../../Asserts/WhatsApp Image 2023-10-07 at 9.38.04 PM.jpeg"
+import Image from "../../Asserts/vision.jpg"
 import AboutBox from "../about/AboutBox"
 
 

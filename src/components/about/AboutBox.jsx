@@ -29,7 +29,7 @@ const AboutBox = () => {
                 </div>
             </div>
             <div className="about__box">
-                <i className="about__icon icon-bagde"></i>
+                <i className="about__icon icon-badge"></i>
 
                 <div>
                     <h3 className="about__title">35</h3>
