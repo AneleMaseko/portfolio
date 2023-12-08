@@ -1,7 +1,7 @@
 import React from "react";
 import "./testimonials.css"
-import Image1 from "../../Asserts/unnoun.avif";
-import Image3 from "../../Asserts/unnoun.avif";
+import Image1 from "../../Asserts/blankprofile.webp";
+import Image3 from "../../Asserts/blankprofile.webp";
 
 // import Swiper core and required modules
 import {Pagination } from 'swiper/modules';
@@ -17,18 +17,18 @@ const data =  [
   {
     id: 1,
     image: Image1,
-    title:"John Doe",
-    subtitle: "Product designer at Dribble",
+    title:"Mr Mthethwa",
+    subtitle: "Web Developer at Adom Technologies",
     comment:
-        "I enjoy working with the theme and learn so much. You guys make the process fun and interesting. Good luck! 👍🏼",
+        "I enjoy working with you. You really are self driven and help your surrounding to do better. Wish you all the best! 🤝",
   },
   {
     id: 2,
     image:Image3,
-    title:"John Doe",
-    subtitle: "Product designer at Dribble",
+    title:"Ms Monamo",
+    subtitle: "Web Developer And DevOps Engineer at UVU Africa",
     comment:
-        "I enjoy working with the theme and learn so much. You guys make the process fun and interesting. Good luck! 👍🏼",
+        "I enjoy working with you in a team and learned so much. Good luck! 👍🏼",
   },
 
 ];
