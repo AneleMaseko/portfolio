@@ -1,8 +1,8 @@
 import React from "react";
 import "./services.css"
-import Image1 from "../../Asserts/WhatsApp Image 2023-10-07 at 9.38.04 PM.jpeg";
-import Image2 from "../../Asserts/WhatsApp Image 2023-10-07 at 9.38.04 PM.jpeg";
-import Image3 from "../../Asserts/WhatsApp Image 2023-10-07 at 9.38.04 PM.jpeg";
+import Image1 from "../../Asserts/UIUX.jpg";
+import Image2 from "../../Asserts/web-development.jpg";
+import Image3 from "../../Asserts/photography.jpeg";
 
 const data = [
     {
@@ -10,21 +10,21 @@ const data = [
        image:Image1,
        title: "UI/UX design",
        description:
-       "loreem ipsum dolor sit amet.",
+       "Visual design and appearance of a product, including buttons, menus, and icons.",
     },
     {
        id:2,
        image:Image2,
        title: "Web Development",
        description:
-       "loreem ipsum dolor sit amet.",
+       "Developing responsive and well structured websites.",
     },
     {
        id:3,
        image:Image3,
        title: "Photography",
        description:
-       "loreem ipsum dolor sit amet.",
+       "Good Quality Pictures with well Angles captures.",
     },
 ]
 

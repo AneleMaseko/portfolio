@@ -7,7 +7,7 @@ const Data = [
         icon: "icon-graduation",
         year: "2009 - 2013",
         title: "Matric",
-        desc: "Lorem ipsum dolor sit amet ei simul congue"
+        desc: "I went to Jerusalem secondary School"
     },
     {
         id:2,
@@ -15,7 +15,7 @@ const Data = [
         icon: "icon-graduation",
         year: "2017 - 2021",
         title: "Diploma",
-        desc: "Lorem ipsum dolor sit amet ei simul congue"
+        desc: "TUT Graduate under IT (Software Development)"
     },
     {
         id:3,
@@ -23,7 +23,7 @@ const Data = [
         icon: "icon-graduation",
         year: "2019 - Present",
         title: "",
-        desc: "Lorem ipsum dolor sit amet ei simul congue"
+        desc: "Upskilling on website development"
     },
     {
         id:4,
@@ -31,23 +31,23 @@ const Data = [
         icon: "icon-briefcase",
         year: "2019 - Present",
         title: "Web Degree",
-        desc: "Lorem ipsum dolor sit amet ei simul congue"
+        desc: "IT training based on software development"
     },
     {
         id:5,
         category:"experience",
         icon: "icon-briefcase",
-        year: "2019 - Present",
+        year: "2019 - 2022",
         title: "Front-End Developer",
-        desc: "Lorem ipsum dolor sit amet ei simul congue"
+        desc: "Adom technologies Intern doing website."
     },
     {
         id:6,
         category:"experience",
         icon: "icon-briefcase",
-        year: "2019 - Present",
+        year: "2023 - Present",
         title: "Back-End Developer",
-        desc: "Lorem ipsum dolor sit amet ei simul congue"
+        desc: "2023 - present UVU Africa intern Web development"
     },
   
 

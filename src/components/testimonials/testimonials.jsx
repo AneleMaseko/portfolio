@@ -1,7 +1,7 @@
 import React from "react";
 import "./testimonials.css"
-import Image1 from "../../Asserts/WhatsApp Image 2023-10-07 at 9.38.04 PM.jpeg";
-import Image3 from "../../Asserts/WhatsApp Image 2023-10-07 at 9.38.04 PM.jpeg";
+import Image1 from "../../Asserts/unnoun.avif";
+import Image3 from "../../Asserts/unnoun.avif";
 
 // import Swiper core and required modules
 import {Pagination } from 'swiper/modules';
