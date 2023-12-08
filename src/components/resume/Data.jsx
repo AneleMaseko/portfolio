@@ -21,7 +21,7 @@ const Data = [
         id:3,
         category:"education",
         icon: "icon-graduation",
-        year: "2019 - Present",
+        year: "2021 - 2022",
         title: "",
         desc: "Upskilling on website development"
     },
@@ -29,7 +29,7 @@ const Data = [
         id:4,
         category:"experience",
         icon: "icon-briefcase",
-        year: "2019 - Present",
+        year: "2021 - Present",
         title: "Web Degree",
         desc: "IT training based on software development"
     },
@@ -37,7 +37,7 @@ const Data = [
         id:5,
         category:"experience",
         icon: "icon-briefcase",
-        year: "2019 - 2022",
+        year: "2021 - 2022",
         title: "Front-End Developer",
         desc: "Adom technologies Intern doing website."
     },

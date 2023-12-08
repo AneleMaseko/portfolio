@@ -1,6 +1,6 @@
  import React from "react";
 import '../about/about.css';
-import Image from "../../Asserts/about2.jpeg"
+import Image from "../../Asserts/about.jpeg"
 import AboutBox from "../about/AboutBox"
 
 

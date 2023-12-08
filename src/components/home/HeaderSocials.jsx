@@ -12,11 +12,11 @@ const HeaderSocials = () => {
         </a>
 
         <a href="" className="home__social-link" target="_blank">
-        <i class="fa-brands fa-behance"></i>
+        <i class="fa-brands fa-github"></i>
         </a>
 
         <a href="" className="home__social-link" target="_blank">
-        <i class="fa-brands fa-dribble"></i>
+        <i class="fa-brands fa-facebook"></i>
         </a>
 
         <a href="www.linkedin.com/in/anele-maseko-0763b2224" className="home__social-link" target="_blank">

@@ -26,6 +26,9 @@
     display: flex;
     column-gap: 1.75rem;
     margin: 1.5rem 0;  
+    align-content: center;
+    align-items: center;
+    
 
 }
 
@@ -34,6 +37,8 @@
     font-size: 1.3rem;
     transition: .3s;
     right: 200px;
+    align-content: center;
+    align-items: center;
 }
 .home__social-link:hover {
     color: hsl(43, 100%, 68%);
