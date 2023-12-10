@@ -15,7 +15,7 @@ const About = () => {
               <div className="about__info">
                 <p className="abot__description">
                   I am Anele Maseko, web developer from South Africa,
-                   Gauteng. I have rich experience in web site design and building and customization, also I am good at WordPress.
+                   Gauteng. I have rich experience in web site design and building and customization.
                 </p>
                 <a href="" className="btn">Download CV</a>
               </div>
