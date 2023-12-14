@@ -5,7 +5,7 @@ import HeaderSocials from './HeaderSocials'
 import ScrollDown from "./ScrollDown";
 
 
-const Home = () => {
+const Index = () => {
     return (  
         <section className="home container" id="home">
             <div className="intro">
@@ -22,4 +22,4 @@ const Home = () => {
     )
 }
  
-export default Home;
+export default Index;
