@@ -2,7 +2,7 @@ import React from "react";
 import "../home/home.css"
 import Me from "../../Asserts/profile2.jpeg"
 import HeaderSocials from './HeaderSocials'
-import ScrollDown from "./ScrollDown";
+
 
 
 const Index = () => {
@@ -14,7 +14,7 @@ const Index = () => {
                 <span className="home__education">I am a Front-End developer</span>
 
                 <HeaderSocials/>
-                <ScrollDown />
+           
 
                 <a href="#Contact" className="btn">Hire Me</a>
             </div>
