@@ -1,7 +1,8 @@
  import React from "react";
 import '../about/about.css';
-import Image from "../../Asserts/about.jpeg"
-import AboutBox from "../about/AboutBox"
+import Image from "../../Asserts/about.jpeg";
+import AboutBox from "../about/AboutBox";
+import Cv from "../../Asserts/cv.pdf"
 
 
 const About = () => {
@@ -17,7 +18,7 @@ const About = () => {
                   I am Anele Maseko, web developer from South Africa,
                    Gauteng. I have rich experience in web site design and building and customization.
                 </p>
-                <a href="" className="btn">Download CV</a>
+                <a href={Cv} className="btn">Download CV</a>
               </div>
 
               <div className="about__skills grid">

@@ -30,3 +30,20 @@
     transform: rotate(-180deg);
     writing-mode: vertical-rl;
 }
+
+@media (max-width: 361px ){
+    .aside{
+        position: hide;
+        left:  -10;
+        top: 0;
+        background: var(--body-color);
+        border-right: 1px solid rgba(0,0,0,0.05);
+        padding: .1rem;
+        /* width: 110px; */
+        /* min-height: 100vh; */
+        /* display: flex; */
+        /* flex-direction: column; */
+        /* justify-content: space-between; */
+        z-index: -660;
+    }
+}

@@ -1,5 +1,6 @@
 import react from 'react'
 
+
 const HeaderSocials = () => {
     return (
        <div className="home__socials">
@@ -19,7 +20,7 @@ const HeaderSocials = () => {
         <i class="fa-brands fa-facebook"></i>
         </a>
 
-        <a href="www.linkedin.com/in/anele-maseko-0763b2224" className="home__social-link" target="_blank">
+        <a href="" className="home__social-link" target="_blank">
         <i class="fa-brands fa-linkedin"></i>
         </a>
        </div>

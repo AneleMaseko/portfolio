@@ -10,7 +10,7 @@ const Contact = () => {
             <div className="contact__container grid">
                 <div className="contact__info">
                     <h3 className="contact__title">let's talk about everything!</h3>
-                    <p className="contact__details">Don't liike forms? send me an email. 👋🏿</p>
+                    <p className="contact__details">Don't like forms? send me an email. 👋🏿</p>
                 </div>
 
                 <form action="" className="contact__form">
