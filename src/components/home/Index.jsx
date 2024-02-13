@@ -6,7 +6,8 @@ import HeaderSocials from './HeaderSocials'
 
 
 const Index = () => {
-    return (  
+    return ( 
+        <section> 
             <div className="intro">
                 <img src={Me} alt=""  />
                 <h1 className="home__name">Anele Maseko</h1>
