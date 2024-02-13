@@ -16,7 +16,7 @@ const Index = () => {
                 <HeaderSocials/>
            
 
-                <a href="#Contact" className="btn">Hire Me</a>
+                <a href="#contact" className="btn">Hire Me</a>
             </div>
         </section>
     )
