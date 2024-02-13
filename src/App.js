@@ -2,7 +2,8 @@ import React from "react";
 import "./";
 import "./App.css"
 import Sidebar from './components/sidebar/sidebar';
-import Index from './components/home/Index';
+import Index  from "./components/home/Index";
+
 import About from "./components/about/about";
 import Services from "./components/services/services";
 import Resume from "./components/resume/Resume";
